@@ -1,0 +1,11 @@
+.banner{
+    width:50%;
+    height:30px;
+    position:relative;
+  
+   margin-bottom: 200px;
+}
+.banner img{
+    height: 50%;
+    margin-bottom: 200px;
+}
